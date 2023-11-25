@@ -37,7 +37,7 @@
 }
 
 .row_posterLarge:hover {
-  transform: scale(2.09);
+  transform: scale(1.5);
 }
 
 /* Media queries for responsiveness */

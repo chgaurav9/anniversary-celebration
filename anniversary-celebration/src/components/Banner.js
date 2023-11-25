@@ -96,18 +96,3 @@ function Banner() {
 }
 
 export default Banner;
-
-  /* Media query for smaller screens */
-  // @media (max-width: 768px) {
-  //   .banner {
-  //     height: 400px; /* Adjusted height for smaller screens */
-  //   }
-  
-  //   .banner_contents {
-  //     padding-top: 150px; /* Adjusted padding-top for smaller screens */
-  //   }
-  
-  //   .banner_title {
-  //     font-size: 2rem; /* Adjusted font size for smaller screens */
-  //   }
-  // }
