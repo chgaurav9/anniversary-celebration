@@ -32,6 +32,9 @@ const ImageRow = ({ title, isLargeRow }) => {
     'e391a1de-c4f0-454e-8950-b916a402e52e.JPG',
     'f0a105b1-c2d1-45dc-be15-c2cfc4448b3a.JPG',
     'f367a11d-eef3-4679-84a1-1ddd53436949.JPG',
+    '9d713cdf-7e2c-44e9-a42c-90d3e87c806b.JPG',
+    '376df5ca-18b3-4209-8ed0-18e7d658e252.JPG',
+    'c1e4bffd-7175-4ee9-8991-d89b3ba1b095 2.JPG',
   ];
 
   const anniversaryText = "Happy Anniversary! Celebrating the love and joy of another year together.";
